@@ -1,0 +1,10 @@
+{
+  "scrape_interval": "daily",
+
+  "products": [
+    {
+      "name": "laptop",
+      "url": "https://webscraper.io/test-sites/e-commerce/static/computers/laptops"
+    }
+  ]
+}
